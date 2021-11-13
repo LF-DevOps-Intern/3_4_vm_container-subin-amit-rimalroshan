@@ -7,7 +7,8 @@ Virtual Machines are a type of hardware level virtualization and they are two ty
 - Full-virtualization: VMWare esxi, xen, kvm, etc
 - Para-virtualization: Oracle Virtualbox, VMWare Workstation
 
-[https://lh5.googleusercontent.com/iCmaB2poDRfzLjAo_EOTbpgSMFsWc1wNrSWqEMCnFz0U37_espV8v8rRcNpBr6ur6M-dWRd3QYyJKyWRMVU5zSWu-AACShbwmPQvBsNGNnjK0v0jXQAc2wolqGCQH38uhi0No85QdZrQ7IMCtQ](https://lh5.googleusercontent.com/iCmaB2poDRfzLjAo_EOTbpgSMFsWc1wNrSWqEMCnFz0U37_espV8v8rRcNpBr6ur6M-dWRd3QYyJKyWRMVU5zSWu-AACShbwmPQvBsNGNnjK0v0jXQAc2wolqGCQH38uhi0No85QdZrQ7IMCtQ)
+![Container](images/image1.png)
+    
 
 (Image Source: GeekforGeeks)
 
