@@ -21,7 +21,7 @@ In both of these cases hardware resources are emulated by the hypervisor and the
     
     A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
     
-    ![Untitled](VM%20vs%20Container%2027499f18c0254f4090a4320f082c5109/Untitled.png)
+    ![Untitled](images/Untitled.png)
     
 
 Containers on the other hand are operating system level virtualization and they use the underlying operating system kernel for interacting with the hardware and pass the system calls to the underlying kernel.
